@@ -1,6 +1,6 @@
 # Basic MCP Server & Client
 
-This repository provides a complete, streamlined implementation of the **Model Context Protocol (MCP)**. It includes a server to host custom tools and a client to orchestrate them using an LLM.
+This repository provides a complete, streamlined implementation of the **Model Context Protocol (MCP)**. It includes a server to host custom tools and a client to orchestrate them using an LLM. This project was built by following a tutorial from Claude Academy. It serves as a learning project and a foundation for further development.
 
 ---
 
